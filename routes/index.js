@@ -6,7 +6,7 @@ var options = {
 };
 
 var title = "zanny is...";
-var moods = ["sleepy", "hungry", "thirsty", "angry", "annoyed", "happy"];
+var moods = ["sleepy", "hungry", "thirsty", "angry", "annoyed", "happy", "sweet"];
 var src = "http://farm%(farm)s.staticflickr.com/%(server)s/%(id)s_%(secret)s.jpg";
 
 exports.index = function(req, res) {
