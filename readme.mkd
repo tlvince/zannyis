@@ -2,6 +2,8 @@
 
 A tiny learning experiment with Node.js and friends. Images from flickr.
 
+![Screenshot of zannyis](http://tlvince.github.com/zannyis/images/ss.png)
+
 Copyright 2012 Tom Vincent <http://tlvince.com/contact/>
 
   [1]: http://zannyis.herokuapp.com/
